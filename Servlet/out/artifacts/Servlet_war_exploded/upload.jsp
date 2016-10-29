@@ -14,7 +14,7 @@
 <body>
     <center>
         <form action="${pageContext.request.contextPath}/Upload"
-              method="post" >
+              method="post" enctype="multipart/form-data">
                 <table>
                     <tr>
                         <td>

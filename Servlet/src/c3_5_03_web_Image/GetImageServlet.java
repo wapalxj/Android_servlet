@@ -10,6 +10,11 @@ import java.io.*;
 /**
  * Created by vero on 2015/12/10.
  * http://localhost:8080/vero/GetImage.jpeg
+ *
+ * PC端测试：
+ * 例如：在D下存放一张图片i1.jpg
+ * 然后浏览器输入：
+ * http://localhost:8080/vero/GetImage.jpeg?id=1
  */
 @WebServlet("/GetImage.jpeg")
 public class GetImageServlet extends HttpServlet {

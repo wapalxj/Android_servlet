@@ -18,6 +18,8 @@ import java.util.List;
 /**
  * Created by vero on 2015/12/11.
  * http://192.168.56.1:8080/vero/Upload
+ * http://localhost:8080/vero/GetImage.jpeg
+ * 类似源码：http://www.educity.cn/wenda/579555.html
  */
 @WebServlet("/Upload")
 public class Upload extends HttpServlet {
