@@ -13,7 +13,7 @@
     <title>$Title$</title>
   </head>
   <body>
-    <p>JJJJJJJSSSSSSSSPPPPPPPP1111111111111</p>
+    <p>这是JJJJJJJSSSSSSSSPPPPPPPP1111111111111</p>
     <%--获取project中image下的图片--%>
     <img alt="xxx" src="${pageContext.request.contextPath}/image/i1.jpg" />
     <hr>
